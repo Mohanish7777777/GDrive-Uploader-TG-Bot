@@ -34,5 +34,5 @@ class Messages:
         
         "**Rules & Precautions**\n__1. Don't copy BIG Google Drive Files/Folders. It may hang the bot and your files maybe damaged.\n2. Send One request at a time unless bot will stop all processes.\n3. Don't send slow links @transload it first.\n4. Don't misuse, overload or abuse this free service.__",
         
-        "**Developed by @viperadnan**"
+        "**Developed by @Mohanish7777777**"
         ]
